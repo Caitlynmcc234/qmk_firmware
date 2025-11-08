@@ -4,3 +4,4 @@
 #pragma once
 
 #define SPLIT_USB_DETECT 1
+#define OLED_TIMEOUT 0
